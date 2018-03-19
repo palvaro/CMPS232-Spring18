@@ -2,13 +2,13 @@
 ## Graduate Distributed Systems
 | key | value | 
 |-----|-------|
-|When: | Monday, Wednesday and Friday from 9:20 to 10:25 AM</b>. |
-|Where: | Cowell Classroom 131 |
+|When: | Tuesdays and Thursdays from 11:40am to 1:15 OM</b>. |
+|Where: | Baskin Engineering 165 |
 |Who: | Peter Alvaro |
-|Office hours: | Wednesday 11-12pm |
+|Office hours: | TBD |
 |Prerequisites: | A passion for reading and a hunger for discussion |
 |Readings: | [Readings](https://github.com/palvaro/CMPS232-Winter16/blob/master/readings.md) (volatile; subject to significant change)|
-|TA: | Michael Shavlovsky (mshavlov@ucsc.edu)|
+|TA: | Perhaps none? |
 
 # Description
 
