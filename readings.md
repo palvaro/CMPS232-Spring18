@@ -1,7 +1,7 @@
 |Date|Subject|<a href="Link">Reading</a>|Presented by|
 |------------|-------------|-------------|------------|
 |4/3/2018|Intro|<a href="">None</a>|Me|
-|4/5|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System (Lamport, CACM 1978)</a>, <br> <a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
+|4/5|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>, <br> <a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
 |4/12|Communication|<a href="http://www.cs.virginia.edu/~zaher/classes/CS656/birrel.pdf">Implementing remote procedure calls</a>, <br> <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628" >A Note on Distributed Computing</a>||
 |4/17|Storage |<a href="http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">Dynamo: Amazon’s Highly Available Key-value Store</a>||
 |4/19|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>; <a href="http://www.sigcomm.org/sites/default/files/ccr/papers/2012/April/2185376-2185383.pdf">Using Lightweight Modeling To Understand Chord</a>||
