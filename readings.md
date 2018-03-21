@@ -11,10 +11,8 @@
 |5/3|Consensus|<a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>||
 |5/8|Consensus|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">State machine replication</a>||
 |5/10|fault tolerance|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
-|5/15|Storage |<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
-|5/17|Storage |<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>| |
-|5/22|Storage |<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
-|5/24|Storage |<a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/weil/weil.pdf">Ceph</a>||
+|5/15|Storage |<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>, <br> <a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>| |
+|5/22|Storage |<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>, <br> <a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/weil/weil.pdf">Ceph</a>||
 |5/28|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>||
 |5/31|LIGHTNING TALKS 1</a>||
 |6/5|LIGHTNING TALKS 2|<a href=""></a>||
