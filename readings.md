@@ -15,10 +15,8 @@
 |5/31|LIGHTNING TALKS 1</a>||
 |6/5|LIGHTNING TALKS 2|<a href=""></a>||
 |6/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">CUT ME: Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>||
-|??|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>||
-|??|Cloud|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>||
-|??|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>||
-|??|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>||
+|??|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>, <br> <a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>||
+|??|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>, <br> <a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>||
 |??|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
 |??|Avoiding coordination|<a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>||
 |??|HOLIDAY|<a href=""></a>||
