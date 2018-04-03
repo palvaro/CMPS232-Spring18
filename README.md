@@ -7,7 +7,7 @@
 |Who: | Peter Alvaro |
 |Office hours: | TBD |
 |Prerequisites: | A passion for reading and a hunger for discussion |
-|Readings: | [Readings](https://github.com/palvaro/CMPS232-Winter16/blob/master/readings.md) (volatile; subject to significant change)|
+|Readings: | [Readings](https://github.com/palvaro/CMPS232-Spring18/blob/master/readings.md) (volatile; subject to significant change)|
 |TA: | Perhaps none? |
 
 # Description
