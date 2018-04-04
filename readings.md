@@ -1,7 +1,7 @@
 |Date|Subject|<a href="Link">Reading</a>|Presented by|
 |------------|-------------|-------------|------------|
 |4/3/2018|Intro|<a href="">None</a>|Me|
-|4/5|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>, <br> <a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>|
+|4/5|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System</a>, <br> <a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>|Justin Lee
 ￼
 icherdak3:05 PM
 atbarker|
