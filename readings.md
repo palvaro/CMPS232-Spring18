@@ -19,4 +19,4 @@
 |5/29|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>, <br> <a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>||
 |5/31|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>||
 |6/5|debugging|<a href="http://www.cis.upenn.edu/~angchen/papers/sigcomm-2016.pdf">The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance</a>||
-|6/7|wrapup|<a href=""></a>||
+|6/7|wrapup|<a href=""></a>|| 
