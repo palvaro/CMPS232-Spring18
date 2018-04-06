@@ -16,7 +16,7 @@
 |5/17|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>, <br> <a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Aziz, Mariette (Map Reduce)|
 |5/22|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>, <br> <a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>||
 |5/24|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>||
-|5/29| Room for more papers!
-|5/31| Room for more papers!
+|5/29|Hot off the press| <a href="https://www.usenix.org/system/files/conference/osdi16/osdi16-li.pdf"> Just Say NO to Paxos Overhead: Replacing Consensus with Network Ordering</a>||
+|5/31| Room for more papers!||
 |6/5|debugging|<a href="http://www.cis.upenn.edu/~angchen/papers/sigcomm-2016.pdf">The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance</a>||
 |6/7|wrapup|<a href=""></a>|| 
