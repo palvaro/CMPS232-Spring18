@@ -5,7 +5,7 @@
 |When: | Tuesdays and Thursdays from 11:40am to 1:15 OM</b>. |
 |Where: | Baskin Engineering 165 |
 |Who: | Peter Alvaro |
-|Office hours: | TBD |
+|Office (half)hours: | Tuesdays, 1:30-2PM and Thursdays 11:15-11:45AM|
 |Prerequisites: | A passion for reading and a hunger for discussion |
 |Readings: | [Readings](https://github.com/palvaro/CMPS232-Spring18/blob/master/readings.md) (volatile; subject to significant change)|
 |TA: | Perhaps none? |
